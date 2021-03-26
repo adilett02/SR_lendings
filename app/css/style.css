@@ -10222,3 +10222,7 @@ a.text-dark:focus, a.text-dark:hover {
 .block .block-img img {
   width: 100%;
 }
+
+.block .block-text {
+  padding: 10px;
+}
