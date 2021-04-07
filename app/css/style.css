@@ -10203,7 +10203,7 @@ a.text-dark:focus, a.text-dark:hover {
 }
 .block {
   display: block;
-  margin: 10px;
+  margin: 10px 0;
   color: #000;
   text-align: center;
   -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
